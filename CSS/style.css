@@ -21,6 +21,31 @@ body {
 #areaLogo, #areaMenu {
     padding: 10px;
 }
+#areaPrincipal {
+    width: 920px;
+    margin: 0 auto;
+}
+#areaPostagens {
+    width: 660px;
+    float: left;
+
+}
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+}
+#areaLateral{
+    width: 240px;
+    float: right;
+}
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+}
+
 /*
 *   Menu formatting
 */
